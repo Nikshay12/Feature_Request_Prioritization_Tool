@@ -1,0 +1,6 @@
+feature_request,user_id,impact,feasibility,value,urgency
+Add dark mode,101,5,4,5,5
+Improve search functionality,102,4,3,5,4
+Enable offline access,103,5,3,4,5
+Add multi-language support,104,3,4,4,3
+Integrate with Google Calendar,105,4,2,5,4
